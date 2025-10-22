@@ -32,6 +32,8 @@ export class DomHandler {
     // {} tem que ter retorno
     // => retorno direto
 
+    
+
     if (consultaExiste) {
       alert('Consulta já agendada!')
       return
