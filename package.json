@@ -1,0 +1,11 @@
+{
+  "name": "clinicamedica",
+  "version": "1.0.0",
+  "description": "git\r     antes de adicionar, ele (arquivo), \"não existe\" para o git\r     tenho que adicionar\r     depois commitar -> aqui o registro, no git",
+  "main": "arquivo_sem_rastreio_no_git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
