@@ -1,5 +1,4 @@
-somente teste
-
-mudei
-
-mudei de novo
+git
+    antes de adicionar, ele (arquivo), "não existe" para o git
+    tenho que adicionar
+    depois commitar -> aqui o registro, no git
